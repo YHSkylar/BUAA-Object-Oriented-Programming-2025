@@ -24,6 +24,7 @@ Each unit is implemented through **three iterative assignments**, demonstrating 
 ---
 
 # Repository Structure
+```
 BUAA-OO-2025
 │
 ├── Pre-Adventures-Game
@@ -61,7 +62,7 @@ BUAA-OO-2025
 │ └── Summary.md
 │
 └── README.md # Overview of the entire repository
-
+```
 
 Each unit contains three iterations (`Iter1–Iter3`) showing the progressive improvement of the system.
 
